@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 
-I am a 2nd year college student with a focus on the MERN stack (MongoDB, Express, React, and Node.js).In addition to my technical skills, I am a strong problem-solver and always looking for ways to improve my processes and increase efficiency. When I'm not coding, you can find me tinkering with new technologies and participating in hackathons and coding challenges.
+I am a 3rd year college student with a focus on the MERN stack (MongoDB, Express, React, and Node.js).In addition to my technical skills, I am a strong problem-solver and always looking for ways to improve my processes and increase efficiency. When I'm not coding, you can find me tinkering with new technologies and participating in hackathons and coding challenges.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Visit my Portfolio]()
